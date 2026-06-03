@@ -1,0 +1,24 @@
+2026-06-02 05:42:23.176 [info] Client: Pylance client (2026.2.1) started with python extension (2026.4.0)
+2026-06-02 05:42:23.536 [info] (131096): Server root directory: file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist
+2026-06-02 05:42:23.536 [info] (131096): Pylance language server 2026.2.1 (pyright version 1.1.408, commit 138238b4) starting
+2026-06-02 05:42:23.543 [info] (131096): Starting service instance "souzou" for workspace "/home/furuike/school/souzou"
+2026-06-02 05:42:24.232 [info] (131096): Loading background bundle file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/copilot-background.bundle.js into file:///home/furuike/school/souzou...
+2026-06-02 05:42:24.301 [info] (131096): FG(souzou): Setting environmentName for service "souzou": "Python 3.14.5"
+2026-06-02 05:42:24.301 [info] (131096): FG(souzou): Setting pythonPath for service "souzou": "/usr/bin/python"
+2026-06-02 05:42:24.301 [info] (131096): FG(souzou): No include entries specified; assuming /home/furuike/school/souzou
+2026-06-02 05:42:24.302 [info] (131096): FG(souzou): Auto-excluding **/node_modules
+2026-06-02 05:42:24.302 [info] (131096): FG(souzou): Auto-excluding **/__pycache__
+2026-06-02 05:42:24.302 [info] (131096): FG(souzou): Auto-excluding **/.*
+2026-06-02 05:42:24.327 [info] (131096): FG(souzou): Assuming Python version 3.14.5.final.0
+2026-06-02 05:42:24.792 [info] (131096): [Editable Installs] Starting dynamic pth file resolution for Python: /usr/bin/python
+2026-06-02 05:42:25.161 [info] (131096): [Editable Installs] No sandbox available for Python /usr/bin/python. Dynamic pth file resolution requires Python 3.13 or later.
+2026-06-02 05:42:25.169 [info] (131096): FG(souzou): Found 11 source files
+2026-06-02 05:42:25.169 [info] (131096): Settings have not changed. Skipping update.
+2026-06-02 05:42:25.174 [info] (131096): Starting Mcp server id:50969 ...
+2026-06-02 05:42:25.175 [info] (131096): PQ(souzou): Priority queue background worker(2) root directory: file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist
+2026-06-02 05:42:25.175 [info] (131096): PQ(souzou): Priority queue background worker(2) started
+2026-06-02 05:42:25.175 [info] (131096): FG(souzou): IDX(souzou): Indexer background runner(3) root directory: file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist (index)
+2026-06-02 05:42:25.175 [info] (131096): FG(souzou): IDX(souzou): Indexing(3) started
+2026-06-02 05:42:25.175 [info] (131096): FG(souzou): IDX(souzou): scanned(3) 46 files over 1 exec env
+2026-06-02 05:42:25.309 [info] (131096): FG(souzou): IDX(souzou): indexed(3) 46 files over 1 exec env
+2026-06-02 05:42:25.309 [info] (131096): FG(souzou): IDX(souzou): Indexing finished(3).

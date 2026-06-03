@@ -1,0 +1,79 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "0e13db0ea69cb81472667d98611101652fa89ed8a27312b17270ead244a16118",
+    "telemetry.devDeviceId": "cd1b1324-3514-41f8-b19d-51c41bc8b3ad",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1780411662609"
+            }
+        ]
+    },
+    "windowControlHeight": 50,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/furuike/school/souzou": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1780411662609": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/furuike/.config/Code/Backups/1780411662609",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 955,
+                "height": 583,
+                "zoomLevel": 2
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#121314",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#bfbfbf",
+            "background": "#121314",
+            "editorBackground": "#121314",
+            "titleBarBackground": "#191a1b",
+            "titleBarBorder": "#2a2b2c",
+            "activityBarBackground": "#191a1b",
+            "activityBarBorder": "#2a2b2c",
+            "sideBarBackground": "#191a1b",
+            "sideBarBorder": "#2a2b2c",
+            "statusBarBackground": "#191a1b",
+            "statusBarBorder": "#2a2b2c",
+            "statusBarNoFolderBackground": "#191a1b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 197,
+            "auxiliaryBarWidth": 198,
+            "workspaces": {
+                "ed23c84e1931809b581f4782c757544b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

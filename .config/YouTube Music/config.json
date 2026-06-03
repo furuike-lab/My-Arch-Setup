@@ -1,0 +1,82 @@
+{
+	"window-size": {
+		"width": 1906,
+		"height": 1162
+	},
+	"window-maximized": false,
+	"window-position": {
+		"x": 7,
+		"y": 31
+	},
+	"url": "https://music.youtube.com/watch?v=TSGiuc57C_E&list=OLAK5uy_nd90dn0igBX6VrA4AP8WUhhg8SrZDDszU&index=0",
+	"options": {
+		"tray": false,
+		"appVisible": true,
+		"autoUpdates": true,
+		"alwaysOnTop": false,
+		"hideMenu": false,
+		"hideMenuWarned": false,
+		"startAtLogin": false,
+		"disableHardwareAcceleration": false,
+		"removeUpgradeButton": false,
+		"restartOnConfigChanges": false,
+		"trayClickPlayPause": false,
+		"autoResetAppCache": false,
+		"resumeOnStart": true,
+		"likeButtons": "",
+		"proxy": "",
+		"startingPage": "",
+		"overrideUserAgent": false,
+		"usePodcastParticipantAsArtist": false,
+		"themes": [],
+		"language": "ja"
+	},
+	"plugins": {
+		"notifications": {},
+		"video-toggle": {
+			"mode": "custom"
+		},
+		"precise-volume": {
+			"globalShortcuts": {}
+		},
+		"discord": {
+			"playOnYouTubeMusic": true,
+			"listenAlong": true,
+			"enabled": true
+		},
+		"compact-sidebar": {
+			"enabled": false
+		},
+		"unobtrusive-player": {
+			"enabled": false
+		},
+		"visualizer": {
+			"enabled": false
+		},
+		"picture-in-picture": {
+			"enabled": true,
+			"alwaysOnTop": true,
+			"savePosition": true,
+			"saveSize": false,
+			"hotkey": "P",
+			"pip-position": [
+				10,
+				10
+			],
+			"pip-size": [
+				450,
+				275
+			],
+			"isInPiP": false,
+			"useNativePiP": true
+		},
+		"equalizer": {
+			"enabled": false
+		}
+	},
+	"__internal__": {
+		"migrations": {
+			"version": "3.11.0"
+		}
+	}
+}

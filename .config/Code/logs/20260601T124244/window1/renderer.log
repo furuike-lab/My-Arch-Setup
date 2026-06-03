@@ -1,0 +1,35 @@
+2026-06-01 12:42:45.647 [info] Started local extension host with pid 38083.
+2026-06-01 12:42:46.039 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-01 12:42:46.431 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-06-01 12:42:48.585 [info] [perf] Render performance baseline is 21ms
+2026-06-01 12:42:51.041 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-01 12:51:14.822 [error] Cancelled: Canceled: Canceled
+    at _ot.getLatestRawGalleryExtension (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1827:54076)
+    at async _ot.getLatestRawGalleryExtensionWithFallback (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1827:52580)
+    at async _ot.getLatestGalleryExtension (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1827:40852)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1827:39940
+    at async Promise.all (index 0)
+    at async _ot.getExtensionsUsingResourceApi (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1827:39894)
+    at async _ot.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1827:38356)
+    at async j9.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3692:21108)
+    at async K8t.getInstallableRecommendations (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3688:20964)
+    at async K8t.getAllRecommendationsModel (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3688:24605)
+    at async K8t.queryGallery (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3688:16685)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3688:5963
+2026-06-01 12:54:53.963 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-06-01 12:55:01.136 [error] [File Watcher ('parcel')] Unexpected error: 許可がありません (EUNKNOWN) (path: /)
+2026-06-01 12:55:01.136 [error] [File Watcher (universal)] 許可がありません
+2026-06-01 12:55:14.753 [error] An unknown error occurred. Please consult the log for more details.
+2026-06-01 13:18:59.819 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2026-06-01 13:19:01.015 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/furuike/school/souzou/python/polymorphism.py 
+2026-06-01 13:19:01.156 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Canceled
+2026-06-01 13:19:02.511 [info] Started local extension host with pid 62738.
+2026-06-01 13:19:02.947 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-06-01 13:19:03.465 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-01 13:19:03.584 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-06-01 13:19:03.768 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-06-01 13:19:05.320 [info] [perf] Render performance baseline is 29ms
+2026-06-01 13:19:08.466 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-01 13:19:21.945 [error] An unknown error occurred. Please consult the log for more details.
+2026-06-01 13:21:37.543 [error] [Extension Host] (node:62738) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

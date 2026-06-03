@@ -1,0 +1,5 @@
+2026-05-31 21:17:50.996 [info] Started local extension host with pid 5954.
+2026-05-31 21:17:51.944 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-05-31 21:17:52.175 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-05-31 21:17:53.727 [info] [perf] Render performance baseline is 18ms
+2026-05-31 21:17:56.945 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false

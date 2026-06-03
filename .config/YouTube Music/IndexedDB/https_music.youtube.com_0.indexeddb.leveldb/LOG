@@ -1,0 +1,18 @@
+2026/06/01-20:06:08.607 3e18 Reusing MANIFEST /home/furuike/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/01-20:06:08.607 3e18 Recovering log #46
+2026/06/01-20:06:08.608 3e18 Reusing old log /home/furuike/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000046.log 
+2026/06/01-20:06:10.442 3bd9 Compacting 1@1 + 1@2 files
+2026/06/01-20:06:10.452 3bd9 Generated table #49@1: 1042 keys, 61192 bytes
+2026/06/01-20:06:10.452 3bd9 Compacted 1@1 + 1@2 files => 61192 bytes
+2026/06/01-20:06:10.461 3bd9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/01-20:06:10.461 3bd9 Delete type=2 #44
+2026/06/01-20:06:10.461 3bd9 Delete type=2 #47
+2026/06/01-21:59:14.041 3bdb Level-0 table #51: started
+2026/06/01-21:59:14.072 3bdb Level-0 table #51: 1311440 bytes OK
+2026/06/01-21:59:14.083 3bdb Delete type=0 #46
+2026/06/01-22:12:44.293 3e17 Compacting 1@1 + 1@2 files
+2026/06/01-22:12:44.305 3e17 Generated table #52@1: 1255 keys, 50657 bytes
+2026/06/01-22:12:44.306 3e17 Compacted 1@1 + 1@2 files => 50657 bytes
+2026/06/01-22:12:44.314 3e17 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/01-22:12:44.315 3e17 Delete type=2 #49
+2026/06/01-22:12:44.315 3e17 Delete type=2 #51

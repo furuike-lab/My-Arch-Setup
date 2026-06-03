@@ -1,0 +1,6 @@
+[Unit]
+Description=Obsidian rclone sync
+
+[Service]
+Type=oneshot
+ExecStart=/home/furuike/.config/obsidian-sync/sync.sh

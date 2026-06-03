@@ -1,0 +1,30 @@
+2026-06-01 12:52:19.701 [info] Getting Manifest... ms-python.python
+2026-06-01 12:52:20.250 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/furuike/.vscode/extensions/extensions.json","path":"/home/furuike/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.122.1","date":"2026-05-29T09:25:37+02:00"}}
+2026-06-01 12:52:20.943 [info] Getting Manifest... ms-python.debugpy
+2026-06-01 12:52:22.117 [info] Getting Manifest... ms-python.vscode-pylance
+2026-06-01 12:52:22.445 [info] Getting Manifest... ms-python.vscode-python-envs
+2026-06-01 12:52:22.592 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/furuike/.vscode/extensions/extensions.json","path":"/home/furuike/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.122.1","date":"2026-05-29T09:25:37+02:00"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-06-01 12:52:22.592 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/furuike/.vscode/extensions/extensions.json","path":"/home/furuike/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.122.1","date":"2026-05-29T09:25:37+02:00"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-06-01 12:52:22.592 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/furuike/.vscode/extensions/extensions.json","path":"/home/furuike/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.122.1","date":"2026-05-29T09:25:37+02:00"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-06-01 12:53:35.366 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 15389ms.
+2026-06-01 12:53:35.924 [info] Extracted extension to file:///home/furuike/.vscode/extensions/ms-python.debugpy-2026.6.0-linux-x64: ms-python.debugpy
+2026-06-01 12:53:35.961 [info] Renamed to /home/furuike/.vscode/extensions/ms-python.debugpy-2026.6.0-linux-x64
+2026-06-01 12:54:25.701 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 873ms.
+2026-06-01 12:54:26.047 [info] Extracted extension to file:///home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64: ms-python.vscode-python-envs
+2026-06-01 12:54:26.073 [info] Renamed to /home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64
+2026-06-01 12:54:41.145 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 922ms.
+2026-06-01 12:54:42.645 [info] Extracted extension to file:///home/furuike/.vscode/extensions/ms-python.python-2026.4.0-linux-x64: ms-python.python
+2026-06-01 12:54:42.755 [info] Renamed to /home/furuike/.vscode/extensions/ms-python.python-2026.4.0-linux-x64
+2026-06-01 12:54:50.494 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 918ms.
+2026-06-01 12:54:53.693 [info] Extracted extension to file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1: ms-python.vscode-pylance
+2026-06-01 12:54:53.896 [info] Renamed to /home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1
+2026-06-01 12:54:53.924 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/furuike/.vscode/extensions/extensions.json
+2026-06-01 12:54:53.924 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/furuike/.vscode/extensions/extensions.json
+2026-06-01 12:54:53.924 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/furuike/.vscode/extensions/extensions.json
+2026-06-01 12:54:53.924 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/furuike/.vscode/extensions/extensions.json
+2026-06-01 13:18:16.022 [info] Getting Manifest... ms-vscode.cpptools
+2026-06-01 13:18:16.388 [info] Installing extension: ms-vscode.cpptools {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/furuike/.vscode/extensions/extensions.json","path":"/home/furuike/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.122.1","date":"2026-05-29T09:25:37+02:00"}}
+2026-06-01 13:21:34.066 [info] Extension signature verification result for ms-vscode.cpptools: Success. Internal Code: 0. Executed: true. Duration: 1093ms.
+2026-06-01 13:21:36.777 [info] Extracted extension to file:///home/furuike/.vscode/extensions/ms-vscode.cpptools-1.32.2-linux-x64: ms-vscode.cpptools
+2026-06-01 13:21:36.833 [info] Renamed to /home/furuike/.vscode/extensions/ms-vscode.cpptools-1.32.2-linux-x64
+2026-06-01 13:21:36.892 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/furuike/.vscode/extensions/extensions.json

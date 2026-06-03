@@ -1,0 +1,6 @@
+2026/06/01-13:31:35.132 11753 Reusing MANIFEST /home/furuike/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/01-13:31:35.132 11753 Recovering log #42
+2026/06/01-13:31:35.139 11753 Reusing old log /home/furuike/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000042.log 
+2026/06/01-13:31:37.213 11753 Level-0 table #47: started
+2026/06/01-13:31:37.227 11753 Level-0 table #47: 1334720 bytes OK
+2026/06/01-13:31:37.238 11753 Delete type=0 #42

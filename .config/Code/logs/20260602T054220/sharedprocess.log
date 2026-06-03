@@ -1,0 +1,33 @@
+2026-06-02 05:42:46.761 [info] Getting Manifest... formulahendry.code-runner
+2026-06-02 05:42:47.061 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/furuike/.vscode/extensions/extensions.json","path":"/home/furuike/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.122.1","date":"2026-05-29T09:25:37+02:00"}}
+2026-06-02 05:42:48.644 [info] Extension signature verification result for formulahendry.code-runner: Success. Internal Code: 0. Executed: true. Duration: 757ms.
+2026-06-02 05:42:48.719 [info] Extracted extension to file:///home/furuike/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2026-06-02 05:42:48.731 [info] Renamed to /home/furuike/.vscode/extensions/formulahendry.code-runner-0.12.2
+2026-06-02 05:42:48.751 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/furuike/.vscode/extensions/extensions.json
+2026-06-02 06:04:48.981 [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+2026-06-02 06:04:49.473 [info] Installing extension: ms-vscode.cpptools-extension-pack {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/furuike/.vscode/extensions/extensions.json","path":"/home/furuike/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.122.1","date":"2026-05-29T09:25:37+02:00"}}
+2026-06-02 06:04:52.781 [info] Getting Manifest... ms-vscode.cpptools
+2026-06-02 06:04:54.428 [info] Getting Manifest... ms-vscode.cpp-devtools
+2026-06-02 06:04:55.373 [info] Getting Manifest... ms-vscode.cmake-tools
+2026-06-02 06:04:55.978 [info] Getting Manifest... ms-vscode.cpptools-themes
+2026-06-02 06:04:56.072 [info] Installing extension: ms-vscode.cpp-devtools {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/furuike/.vscode/extensions/extensions.json","path":"/home/furuike/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.122.1","date":"2026-05-29T09:25:37+02:00"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-06-02 06:04:56.072 [info] Installing extension: ms-vscode.cmake-tools {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/furuike/.vscode/extensions/extensions.json","path":"/home/furuike/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.122.1","date":"2026-05-29T09:25:37+02:00"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-06-02 06:04:56.072 [info] Installing extension: ms-vscode.cpptools-themes {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/furuike/.vscode/extensions/extensions.json","path":"/home/furuike/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.122.1","date":"2026-05-29T09:25:37+02:00"},"pinned":false,"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-06-02 06:04:59.606 [info] Extension signature verification result for ms-vscode.cpptools-extension-pack: Success. Internal Code: 0. Executed: true. Duration: 439ms.
+2026-06-02 06:04:59.612 [info] Extracted extension to file:///home/furuike/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.5.1: ms-vscode.cpptools-extension-pack
+2026-06-02 06:04:59.620 [info] Renamed to /home/furuike/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.5.1
+2026-06-02 06:05:08.222 [info] Extension signature verification result for ms-vscode.cpptools-themes: Success. Internal Code: 0. Executed: true. Duration: 427ms.
+2026-06-02 06:05:08.231 [info] Extracted extension to file:///home/furuike/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0: ms-vscode.cpptools-themes
+2026-06-02 06:05:08.239 [info] Renamed to /home/furuike/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0
+2026-06-02 06:05:08.828 [info] Extension signature verification result for ms-vscode.cpp-devtools: Success. Internal Code: 0. Executed: true. Duration: 438ms.
+2026-06-02 06:05:08.889 [info] Extracted extension to file:///home/furuike/.vscode/extensions/ms-vscode.cpp-devtools-0.5.13: ms-vscode.cpp-devtools
+2026-06-02 06:05:08.914 [info] Renamed to /home/furuike/.vscode/extensions/ms-vscode.cpp-devtools-0.5.13
+2026-06-02 06:06:55.096 [warning] Failed downloading vsix. Unable to write file '/home/furuike/.config/Code/CachedExtensionVSIXs/.9b6c42f8-3306-4032-b9ee-57627db1897f' (Error: net::ERR_CONNECTION_RESET). Retry again... ms-vscode.cmake-tools
+2026-06-02 06:08:29.639 [warning] Failed downloading vsix. Unable to write file '/home/furuike/.config/Code/CachedExtensionVSIXs/.924a700a-45e5-49ae-9389-d9f7d4887f25' (Error: net::ERR_CONNECTION_RESET). Retry again... ms-vscode.cmake-tools
+2026-06-02 06:08:31.796 [info] Extension signature verification result for ms-vscode.cmake-tools: Success. Internal Code: 0. Executed: true. Duration: 432ms.
+2026-06-02 06:08:31.983 [info] Extracted extension to file:///home/furuike/.vscode/extensions/ms-vscode.cmake-tools-1.23.52: ms-vscode.cmake-tools
+2026-06-02 06:08:32.010 [info] Renamed to /home/furuike/.vscode/extensions/ms-vscode.cmake-tools-1.23.52
+2026-06-02 06:08:32.042 [info] Extension installed successfully: ms-vscode.cpptools-extension-pack vscode-userdata:/home/furuike/.vscode/extensions/extensions.json
+2026-06-02 06:08:32.043 [info] Extension installed successfully: ms-vscode.cpptools-themes vscode-userdata:/home/furuike/.vscode/extensions/extensions.json
+2026-06-02 06:08:32.043 [info] Extension installed successfully: ms-vscode.cpp-devtools vscode-userdata:/home/furuike/.vscode/extensions/extensions.json
+2026-06-02 06:08:32.043 [info] Extension installed successfully: ms-vscode.cmake-tools vscode-userdata:/home/furuike/.vscode/extensions/extensions.json

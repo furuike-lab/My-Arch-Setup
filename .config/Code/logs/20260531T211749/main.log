@@ -1,0 +1,6 @@
+2026-05-31 21:17:49.908 [info] StorageMainService: creating application shared storage
+2026-05-31 21:17:49.918 [info] [shared storage] Creating shared storage database at '/home/furuike/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-05-31 21:17:49.919 [info] [shared storage] Initializing fallback application storage (path: /home/furuike/.config/Code/User/globalStorage/state.vscdb)
+2026-05-31 21:17:49.953 [info] [shared storage] Fallback application storage initialized with 86 items
+2026-05-31 21:17:49.955 [info] update#setState idle
+2026-05-31 21:18:03.811 [info] Extension host with pid 5954 exited with code: 0, signal: unknown.

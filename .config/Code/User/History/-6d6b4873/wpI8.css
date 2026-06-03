@@ -1,0 +1,96 @@
+ window {
+
+background: transparent;
+
+background-color: transparent;
+
+border-style: none;
+
+box-shadow: none;
+
+/* window側のマージンは効かないので一度リセット */
+
+margin-bottom: 0px;
+
+}
+
+
+#box {
+
+/* 背景を透明感のある綺麗で明るい白にする */
+
+background-color: rgba(255, 255, 255, 0.17);
+
+border: 1px solid rgba(255, 255, 255, 0.30);
+
+box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.15);
+
+border-radius: 20px;
+
+padding: 6px 0px 2px 0px;
+
+
+/* 📌【ここが本番！】箱自体に「下側の余白」を作って、無理やり上に押し上げる */
+
+margin-bottom: 3px;
+
+}
+
+
+#active {
+
+/* アクティブなアプリの下線を、白ドックに合わせて黒（または濃いグレー）の点風にする */
+
+border-bottom: solid 3px #000000;
+
+border-color: rgba(0, 0, 0, 0.5);
+
+}
+
+
+button, image {
+
+background: none;
+
+border-style: none;
+
+box-shadow: none;
+
+color: #333; /* 文字やアイコンの影を暗めにして見やすく */
+
+}
+
+
+button {
+
+padding: 4px;
+
+margin-left: 4px;
+
+margin-right: 4px;
+
+color: #222; /* アイコンや文字の色を白背景で見えやすいように黒っぽく */
+
+font-size: 12px;
+
+}
+
+
+/* マウスを乗せた（ホバーした）ときの設定 */
+
+button:hover {
+
+/* 白背景の上なので、ホバー時はフワッと「薄い黒」を重ねて目立たせる */
+
+background-color: rgba(0, 0, 0, 0.08);
+
+border-radius: 12px;
+
+}
+
+
+button:focus {
+
+box-shadow: none;
+
+} 

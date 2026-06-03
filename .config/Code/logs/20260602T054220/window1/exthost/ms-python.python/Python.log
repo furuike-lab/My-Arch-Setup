@@ -1,0 +1,16 @@
+2026-06-02 05:42:22.377 [info] Environment discovery is managed by the Python Environments extension (ms-python.vscode-python-envs). Check the "Python Environments" output channel for environment-specific logs.
+2026-06-02 05:42:22.468 [info] [test-by-project] Activating project-based testing mode
+2026-06-02 05:42:22.468 [info] [test-by-project] Discovering projects for workspace: /home/furuike/school/souzou
+2026-06-02 05:42:22.468 [info] Native locator: Refresh started
+2026-06-02 05:42:22.468 [info] [test-by-project] Found 1 total Python projects from API
+2026-06-02 05:42:22.468 [info] [test-by-project] Filtered to 1 projects in workspace
+2026-06-02 05:42:22.468 [info] [test-by-project] Creating adapter for: souzou at file:///home/furuike/school/souzou
+2026-06-02 05:42:22.472 [info] [test-by-project] Registered 1 project(s) for /home/furuike/school/souzou
+2026-06-02 05:42:22.473 [info] [test-by-project] Activated 1 project(s) for /home/furuike/school/souzou
+2026-06-02 05:42:22.474 [info] [test-by-project] Subscribed to Python project changes
+2026-06-02 05:42:22.559 [info] > pyenv which python
+2026-06-02 05:42:22.559 [info] cwd: .
+2026-06-02 05:42:22.562 [info] Active interpreter [/home/furuike/school/souzou]:  /usr/bin/python
+2026-06-02 05:42:22.922 [info] Native locator: Refresh finished in 454 ms
+2026-06-02 05:42:24.234 [info] Starting Pylance language server.
+2026-06-02 05:43:05.222 [error] Unable to find workspace for given file

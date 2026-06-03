@@ -1,0 +1,93 @@
+2026-06-02 05:42:21.595 [info] Extension host with pid 130564 started
+2026-06-02 05:42:21.595 [info] Skipping acquiring lock for /home/furuike/.config/Code/User/workspaceStorage/ed23c84e1931809b581f4782c757544b.
+2026-06-02 05:42:21.655 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-06-02 05:42:21.675 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-06-02 05:42:21.743 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2026-06-02 05:42:21.852 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2026-06-02 05:42:22.107 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2026-06-02 05:42:22.226 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-06-02 05:42:22.489 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2026-06-02 05:42:22.573 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-06-02 05:42:22.634 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-06-02 05:42:22.669 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-06-02 05:42:22.727 [info] Eager extensions activated
+2026-06-02 05:42:22.768 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-06-02 05:42:22.770 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-06-02 05:42:25.168 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2026-06-02 05:42:25.170 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2026-06-02 05:42:27.167 [error] Error: illegal state - object is disposed
+	at i._checkDisposed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:530:103473)
+	at i.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:530:102886)
+	at DiagnosticRequestor.forgetDocument (/home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/vendor.bundle.js:39:73655)
+	at DiagnosticFeatureProviderImpl.cleanUpDocument (/home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/vendor.bundle.js:39:88126)
+	at cp.value (/home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/vendor.bundle.js:39:87297)
+	at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3244)
+	at E._deliverQueue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3333)
+	at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3667)
+	at updateVisibleDocuments (/home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/vendor.bundle.js:34:39301)
+	at /home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/vendor.bundle.js:34:39670
+	at cp.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:641:134607)
+	at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3244)
+	at E._deliverQueue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3333)
+	at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3667)
+	at cp.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:641:81241)
+	at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3244)
+	at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3562)
+	at $g.acceptDocumentsAndEditorsDelta (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:510:14547)
+	at $g.$acceptDocumentsAndEditorsDelta (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:510:12906)
+	at i._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:157650)
+	at i._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:157398)
+	at i._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:156180)
+	at i._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:155018)
+	at cp.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:153093)
+	at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3244)
+	at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3562)
+	at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+	at cp.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:805:9911)
+	at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3244)
+	at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3562)
+	at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:805:8082)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-06-02 05:42:27.168 [error] Error: illegal state - object is disposed
+	at i._checkDisposed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:530:103473)
+	at i.delete (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:530:102886)
+	at DiagnosticRequestor.forgetDocument (/home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/vendor.bundle.js:39:73655)
+	at DiagnosticFeatureProviderImpl.cleanUpDocument (/home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/vendor.bundle.js:39:88126)
+	at cp.value (/home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/vendor.bundle.js:39:87297)
+	at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3244)
+	at E._deliverQueue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3333)
+	at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3667)
+	at updateVisibleDocuments (/home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/vendor.bundle.js:34:39301)
+	at /home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/vendor.bundle.js:34:39670
+	at cp.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:641:134607)
+	at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3244)
+	at E._deliverQueue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3333)
+	at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3667)
+	at cp.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:641:81241)
+	at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3244)
+	at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3562)
+	at $g.acceptDocumentsAndEditorsDelta (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:510:14547)
+	at $g.$acceptDocumentsAndEditorsDelta (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:510:12906)
+	at i._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:157650)
+	at i._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:157398)
+	at i._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:156180)
+	at i._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:155018)
+	at cp.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:407:153093)
+	at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3244)
+	at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3562)
+	at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+	at cp.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:805:9911)
+	at E._deliver (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3244)
+	at E.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:403:3562)
+	at as.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:405:8437)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:805:8082)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-06-02 05:42:48.875 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2026-06-02 05:43:04.891 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-02 05:43:04.897 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-02 05:43:04.944 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-02 06:04:43.036 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2026-06-02 06:08:32.238 [info] ExtensionService#_doActivateExtension ms-vscode.cpp-devtools, startup: false, activationEvent: 'onLanguage:c'

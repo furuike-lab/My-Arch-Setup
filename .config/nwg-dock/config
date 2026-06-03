@@ -1,0 +1,8 @@
+[launcher]
+icon = /home/furuike/.local/share/icons/youtube-music.png
+command = /home/furuike/.local/opt/appimages/YouTube-Music-3.11.0.AppImage
+tooltip = YouTube Music
+
+icon = /home/furuike/.local/share/icons/processing.png
+command = /home/furuike/Applications/processing-3.5.4/processing
+tooltip = Processing 3.5.4

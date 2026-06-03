@@ -1,0 +1,23 @@
+;; ----------------------------------------
+;; Dock本体
+(defwidget dock []
+  (box :class "dock"
+    (button :onclick "firefox" "🌐")
+    (button :onclick "code" "💻")
+    (button :onclick "discord" "💬")
+    (button :onclick "spotify" "🎵")
+  )
+)
+
+;; Window定義
+(defwindow dock
+  :name "dock"          ;; namespace名として使用
+  :monitor 0
+  :geometry (geometry
+    :x "0"
+    :y "20px"
+    :width "400px"
+    :height "60px"
+    :anchor "bottom center")
+  (dock)
+)

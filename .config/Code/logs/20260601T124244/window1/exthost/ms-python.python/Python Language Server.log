@@ -1,0 +1,62 @@
+2026-06-01 12:54:56.037 [info] Client: Pylance client (2026.2.1) started with python extension (2026.4.0)
+2026-06-01 12:54:56.503 [info] (53186): Server root directory: file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist
+2026-06-01 12:54:56.504 [info] (53186): Pylance language server 2026.2.1 (pyright version 1.1.408, commit 138238b4) starting
+2026-06-01 12:54:56.533 [info] (53186): Starting service instance "<default>" for workspace ""
+2026-06-01 12:54:57.503 [info] (53186): Loading background bundle file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/copilot-background.bundle.js into ...
+2026-06-01 12:54:57.533 [info] (53186): FG(<default>): Setting environmentName for service "<default>": "Python 3.14.5"
+2026-06-01 12:54:57.533 [info] (53186): FG(<default>): Setting pythonPath for service "<default>": "/usr/bin/python"
+2026-06-01 12:54:57.534 [info] (53186): FG(<default>): No include entries specified; assuming /<default workspace root>
+2026-06-01 12:54:57.534 [info] (53186): FG(<default>): Auto-excluding **/node_modules
+2026-06-01 12:54:57.534 [info] (53186): FG(<default>): Auto-excluding **/__pycache__
+2026-06-01 12:54:57.535 [info] (53186): FG(<default>): Auto-excluding **/.*
+2026-06-01 12:54:57.559 [info] (53186): FG(<default>): Assuming Python version 3.14.5.final.0
+2026-06-01 12:54:57.655 [info] (53186): [Editable Installs] Starting dynamic pth file resolution for Python: /usr/bin/python
+2026-06-01 12:54:57.664 [info] (53186): [Editable Installs] No sandbox available for Python /usr/bin/python. Dynamic pth file resolution requires Python 3.13 or later.
+2026-06-01 12:54:57.681 [warning] (53186): FG(<default>): [ExternalProgram] _onFileParsed called with non-Python file: untitled:Untitled-1. This indicates the upstream filter in changedWatchedFiles was bypassed.
+2026-06-01 12:54:57.693 [error] (53186): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2026-06-01 12:54:57.693 [info] (53186): FG(<default>): No source files found.
+2026-06-01 12:54:57.697 [info] (53186): Settings have not changed. Skipping update.
+2026-06-01 12:54:57.821 [info] (53186): Starting Mcp server id:59340 ...
+2026-06-01 12:54:57.963 [info] (53186): PQ(<default>): Priority queue background worker(2) root directory: file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist
+2026-06-01 12:54:57.964 [info] (53186): PQ(<default>): Priority queue background worker(2) started
+2026-06-01 12:54:58.319 [warning] (53186): BG(<default>): [ExternalProgram] _onFileParsed called with non-Python file: untitled:Untitled-1. This indicates the upstream filter in changedWatchedFiles was bypassed.
+2026-06-01 12:55:14.600 [warning] (53186): FG(<default>): [ExternalProgram] _onFileParsed called with non-Python file: untitled:Untitled-1. This indicates the upstream filter in changedWatchedFiles was bypassed.
+2026-06-01 12:55:14.601 [warning] (53186): BG(<default>): [ExternalProgram] _onFileParsed called with non-Python file: untitled:Untitled-1. This indicates the upstream filter in changedWatchedFiles was bypassed.
+2026-06-01 12:55:52.158 [warning] (53186): FG(<default>): [ExternalProgram] _onFileParsed called with non-Python file: untitled:Untitled-1. This indicates the upstream filter in changedWatchedFiles was bypassed.
+2026-06-01 13:19:14.760 [info] Client: Pylance client (2026.2.1) started with python extension (2026.4.0)
+2026-06-01 13:19:15.439 [info] (63218): Server root directory: file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist
+2026-06-01 13:19:15.577 [info] (63218): Pylance language server 2026.2.1 (pyright version 1.1.408, commit 138238b4) starting
+2026-06-01 13:19:15.665 [info] (63218): Starting service instance "souzou" for workspace "/home/furuike/school/souzou"
+2026-06-01 13:19:16.779 [info] (63218): Loading background bundle file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/copilot-background.bundle.js into file:///home/furuike/school/souzou...
+2026-06-01 13:19:16.879 [info] (63218): FG(souzou): Setting environmentName for service "souzou": "Python 3.14.5"
+2026-06-01 13:19:16.879 [info] (63218): FG(souzou): Setting pythonPath for service "souzou": "/usr/bin/python"
+2026-06-01 13:19:16.879 [info] (63218): FG(souzou): No include entries specified; assuming /home/furuike/school/souzou
+2026-06-01 13:19:16.880 [info] (63218): FG(souzou): Auto-excluding **/node_modules
+2026-06-01 13:19:16.880 [info] (63218): FG(souzou): Auto-excluding **/__pycache__
+2026-06-01 13:19:16.880 [info] (63218): FG(souzou): Auto-excluding **/.*
+2026-06-01 13:19:16.904 [info] (63218): FG(souzou): Assuming Python version 3.14.5.final.0
+2026-06-01 13:19:16.957 [info] (63218): [Editable Installs] Starting dynamic pth file resolution for Python: /usr/bin/python
+2026-06-01 13:19:16.967 [info] (63218): [Editable Installs] No sandbox available for Python /usr/bin/python. Dynamic pth file resolution requires Python 3.13 or later.
+2026-06-01 13:19:17.027 [info] (63218): FG(souzou): Found 11 source files
+2026-06-01 13:19:17.032 [info] (63218): Settings have not changed. Skipping update.
+2026-06-01 13:19:17.238 [info] (63218): Starting Mcp server id:33228 ...
+2026-06-01 13:19:17.295 [info] (63218): PQ(souzou): Priority queue background worker(2) root directory: file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist
+2026-06-01 13:19:17.295 [info] (63218): PQ(souzou): Priority queue background worker(2) started
+2026-06-01 13:19:17.494 [info] (63218): FG(souzou): IDX(souzou): Indexer background runner(3) root directory: file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist (index)
+2026-06-01 13:19:17.494 [info] (63218): FG(souzou): IDX(souzou): Indexing(3) started
+2026-06-01 13:19:17.793 [info] (63218): FG(souzou): IDX(souzou): scanned(3) 46 files over 1 exec env
+2026-06-01 13:19:18.265 [info] (63218): FG(souzou): IDX(souzou): indexed(3) 46 files over 1 exec env
+2026-06-01 13:19:18.274 [info] (63218): FG(souzou): IDX(souzou): Indexing finished(3).
+2026-06-01 13:22:09.904 [info] (63218): Starting service instance "<default>" for workspace ""
+2026-06-01 13:22:09.905 [info] (63218): Loading background bundle file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist/copilot-background.bundle.js into ...
+2026-06-01 13:22:10.009 [info] (63218): FG(<default>): Setting environmentName for service "<default>": "Python 3.14.5"
+2026-06-01 13:22:10.009 [info] (63218): FG(<default>): Setting pythonPath for service "<default>": "/usr/bin/python"
+2026-06-01 13:22:10.009 [info] (63218): FG(<default>): No include entries specified; assuming /<default workspace root>
+2026-06-01 13:22:10.010 [info] (63218): FG(<default>): Auto-excluding **/node_modules
+2026-06-01 13:22:10.010 [info] (63218): FG(<default>): Auto-excluding **/__pycache__
+2026-06-01 13:22:10.011 [info] (63218): FG(<default>): Auto-excluding **/.*
+2026-06-01 13:22:10.069 [info] (63218): FG(<default>): Assuming Python version 3.14.5.final.0
+2026-06-01 13:22:10.282 [error] (63218): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2026-06-01 13:22:10.283 [info] (63218): FG(<default>): No source files found.
+2026-06-01 13:22:10.747 [info] (63218): PQ(<default>): Priority queue background worker(5) root directory: file:///home/furuike/.vscode/extensions/ms-python.vscode-pylance-2026.2.1/dist
+2026-06-01 13:22:10.748 [info] (63218): PQ(<default>): Priority queue background worker(5) started

@@ -1,0 +1,17 @@
+apple_cursor
+cbonsai
+eww
+floorp-bin
+google-chrome
+mpvpaper
+oh-my-posh
+pipes.sh
+pokemon-colorscripts-git
+sddm-astronaut-theme
+tint
+ttf-segoe-ui-variable
+visual-studio-code-bin
+whitesur-icon-theme
+wlogout
+yay
+yay-debug

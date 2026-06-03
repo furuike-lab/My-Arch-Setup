@@ -1,0 +1,7 @@
+2026-05-31 21:08:38.412 [info] StorageMainService: creating application shared storage
+2026-05-31 21:08:38.416 [info] [shared storage] Creating shared storage database at '/home/furuike/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-05-31 21:08:38.416 [info] [shared storage] Initializing fallback application storage (path: /home/furuike/.config/Code/User/globalStorage/state.vscdb)
+2026-05-31 21:08:38.449 [info] [shared storage] Fallback application storage initialized with 86 items
+2026-05-31 21:08:38.450 [info] update#setState idle
+2026-05-31 21:09:08.451 [info] update#setState checking for updates
+2026-05-31 21:09:08.543 [info] update#setState idle

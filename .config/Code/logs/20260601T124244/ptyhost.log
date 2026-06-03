@@ -1,0 +1,1 @@
+2026-06-01 12:54:55.446 [error] Failed to set sticky bit on /tmp/furuike-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/furuike-code-zsh'

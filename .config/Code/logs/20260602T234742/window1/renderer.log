@@ -1,0 +1,19 @@
+2026-06-02 23:47:42.884 [warning] [LM] Failed to request chat control data Offline
+2026-06-02 23:47:42.932 [info] Started local extension host with pid 8987.
+2026-06-02 23:47:43.048 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-06-02 23:47:43.090 [error] Ignoring python.analysis.indexing.followSymlinkedFolders as python.analysis.indexing is true
+2026-06-02 23:47:43.192 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-06-02 23:47:43.406 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-06-02 23:47:43.725 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/user
+2026-06-02 23:47:43.731 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/user
+2026-06-02 23:47:43.732 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/user
+2026-06-02 23:47:45.485 [error] Offline: Offline
+    at VUo (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5004:51338)
+    at async oft.logAndRequest (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:937:10286)
+    at async x4e.doFetchAlerts (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5450:8647)
+    at async x4e.fetchAlerts (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:5450:8555)
+2026-06-02 23:47:45.616 [info] [perf] Render performance baseline is 16ms
+2026-06-02 23:47:46.667 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/user
+2026-06-02 23:47:46.668 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/user
+2026-06-02 23:47:46.670 [error] [DefaultAccount] request: error Offline: Offline https://api.github.com/copilot_internal/user
+2026-06-02 23:47:48.193 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false

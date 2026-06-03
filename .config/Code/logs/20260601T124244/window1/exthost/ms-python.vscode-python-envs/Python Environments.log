@@ -1,0 +1,161 @@
+2026-06-01 12:54:54.659 [info] Python-envs extension version: 1.30.0
+2026-06-01 12:54:54.659 [info] 
+=== Python Envs Configuration Levels ===
+2026-06-01 12:54:54.659 [info] {
+  "section": "Python Envs Configuration Levels",
+  "defaultEnvManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:venv"
+  },
+  "defaultPackageManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:pip"
+  }
+}
+2026-06-01 12:54:54.659 [info] [pet] Starting Python Locator /home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/python-env-tools/bin/pet server
+2026-06-01 12:54:54.659 [info] Registering pyenv manager (environments will be discovered lazily)
+2026-06-01 12:54:54.659 [info] Registering pipenv manager (environments will be discovered lazily)
+2026-06-01 12:54:54.659 [info] Registering poetry manager (environments will be discovered lazily)
+2026-06-01 12:54:54.659 [warning] No workspace folder for relative search path: .venv
+2026-06-01 12:54:54.659 [warning] No workspace folder for relative search path: */.venv
+2026-06-01 12:54:54.659 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":[],"environmentDirectories":[],"pipenvExecutable":"pipenv","poetryExecutable":"poetry","cacheDirectory":"/home/furuike/.config/Code/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2026-06-01 12:54:54.755 [info] Discovered env: /usr/bin/python
+2026-06-01 12:54:54.816 [info] Conda not found, turning off conda features. [Error: Conda not found
+	at F (/home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/dist/extension.js:2:607042)
+	at runNextTicks (node:internal/process/task_queues:64:5)
+	at process.processImmediate (node:internal/timers:452:9)
+	at async L (/home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/dist/extension.js:2:607167)
+	at async t.registerCondaFeatures (/home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/dist/extension.js:2:627092)
+	at async t.safeRegister (/home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/dist/extension.js:2:282415)
+	at async Promise.all (index 1)
+	at async Immediate.<anonymous> (/home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/dist/extension.js:2:752995)]
+2026-06-01 12:54:54.818 [info] [interpreterSelection] Applying initial environment selection for 0 workspace folder(s)
+2026-06-01 12:54:54.828 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":132,"breakdown":{"GlobalVirtualEnvs":0,"Locators":74,"Path":132,"Workspaces":0},"locators":{"Conda":59,"Homebrew":0,"LinuxGlobal":72,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":1,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 12:54:54.829 [info] [interpreterSelection] global: Python 3.14.5 (source: autoDiscovery)
+2026-06-01 12:54:54.834 [info] Python API: Changed environment from undefined to Python 3.14.5 for: global
+2026-06-01 12:54:54.834 [info] Internal: Changed environment from undefined to Python 3.14.5 for: global
+2026-06-01 12:54:54.835 [info] Refreshing pyenv environments
+2026-06-01 12:54:54.838 [info] Pipenv not found via settings, cache, or PATH
+2026-06-01 12:54:54.839 [info] Refreshing pipenv environments
+2026-06-01 12:54:54.839 [info] Pipenv not found via settings, cache, or PATH
+2026-06-01 12:54:54.839 [info] Found 0 pipenv environments
+2026-06-01 12:54:54.840 [info] Pipenv not found via settings, cache, or PATH
+2026-06-01 12:54:54.842 [info] Refreshing poetry environments
+2026-06-01 12:54:54.843 [info] Poetry executable not found
+2026-06-01 12:54:54.844 [info] Environment discovery complete: 1 environments found (Global: 1)
+2026-06-01 12:54:55.030 [info] Refreshing Pyenv Environments
+2026-06-01 12:54:55.030 [info] Refreshing pyenv environments
+2026-06-01 12:54:55.030 [info] Refreshing Pipenv Environments
+2026-06-01 12:54:55.030 [info] Refreshing pipenv environments
+2026-06-01 12:54:55.030 [info] Refreshing Poetry Environments
+2026-06-01 12:54:55.030 [info] Refreshing poetry environments
+2026-06-01 12:54:55.031 [warning] No workspace folder for relative search path: .venv
+2026-06-01 12:54:55.031 [warning] No workspace folder for relative search path: */.venv
+2026-06-01 12:54:55.125 [info] Discovered env: /usr/bin/python
+2026-06-01 12:54:55.127 [warning] No workspace folder for relative search path: .venv
+2026-06-01 12:54:55.127 [warning] No workspace folder for relative search path: */.venv
+2026-06-01 12:54:55.135 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":80,"breakdown":{"GlobalVirtualEnvs":0,"Locators":64,"Path":79,"Workspaces":0},"locators":{"Conda":64,"Homebrew":0,"LinuxGlobal":60,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 12:54:55.193 [info] Discovered env: /usr/bin/python
+2026-06-01 12:54:55.211 [warning] No workspace folder for relative search path: .venv
+2026-06-01 12:54:55.211 [warning] No workspace folder for relative search path: */.venv
+2026-06-01 12:54:55.213 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":72,"breakdown":{"GlobalVirtualEnvs":0,"Locators":56,"Path":72,"Workspaces":0},"locators":{"Conda":54,"Homebrew":0,"LinuxGlobal":55,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 12:54:55.266 [info] Discovered env: /usr/bin/python
+2026-06-01 12:54:55.285 [warning] No workspace folder for relative search path: .venv
+2026-06-01 12:54:55.285 [warning] No workspace folder for relative search path: */.venv
+2026-06-01 12:54:55.286 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":70,"breakdown":{"GlobalVirtualEnvs":0,"Locators":52,"Path":69,"Workspaces":0},"locators":{"Conda":51,"Homebrew":0,"LinuxGlobal":51,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 12:54:55.337 [info] Discovered env: /usr/bin/python
+2026-06-01 12:54:55.351 [warning] No workspace folder for relative search path: .venv
+2026-06-01 12:54:55.351 [warning] No workspace folder for relative search path: */.venv
+2026-06-01 12:54:55.352 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":60,"breakdown":{"GlobalVirtualEnvs":0,"Locators":49,"Path":60,"Workspaces":0},"locators":{"Conda":49,"Homebrew":0,"LinuxGlobal":47,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 12:54:55.353 [info] Pipenv not found via settings, cache, or PATH
+2026-06-01 12:54:55.353 [info] Found 0 pipenv environments
+2026-06-01 12:54:55.401 [info] Discovered env: /usr/bin/python
+2026-06-01 12:54:55.416 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":61,"breakdown":{"GlobalVirtualEnvs":0,"Locators":48,"Path":60,"Workspaces":0},"locators":{"Conda":47,"Homebrew":0,"LinuxGlobal":46,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 12:54:55.417 [info] Poetry executable not found
+2026-06-01 12:59:19.331 [info] runInTerminal: sendText /usr/bin/python /home/furuike/school/souzou/python/polymorphism.py
+2026-06-01 12:59:35.039 [info] runInTerminal: executeCommand /usr/bin/python /home/furuike/school/souzou/python/polymorphism.py
+2026-06-01 13:00:10.502 [info] runInTerminal: executeCommand /usr/bin/python /home/furuike/school/souzou/python/polymorphism.py
+2026-06-01 13:12:47.034 [info] runInTerminal: executeCommand /usr/bin/python /home/furuike/school/souzou/python/polymorphism.py
+2026-06-01 13:19:13.385 [info] Python-envs extension version: 1.30.0
+2026-06-01 13:19:13.385 [info] 
+=== Python Envs Configuration Levels ===
+2026-06-01 13:19:13.385 [info] {
+  "section": "Python Envs Configuration Levels",
+  "defaultEnvManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:venv"
+  },
+  "defaultPackageManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:pip"
+  }
+}
+2026-06-01 13:19:13.385 [info] [pet] Starting Python Locator /home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/python-env-tools/bin/pet server
+2026-06-01 13:19:13.385 [info] Registering pyenv manager (environments will be discovered lazily)
+2026-06-01 13:19:13.385 [info] Registering pipenv manager (environments will be discovered lazily)
+2026-06-01 13:19:13.385 [info] Registering poetry manager (environments will be discovered lazily)
+2026-06-01 13:19:13.395 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":["/home/furuike/school/souzou"],"environmentDirectories":["/home/furuike/school/souzou/.venv","/home/furuike/school/souzou/*/.venv"],"pipenvExecutable":"pipenv","poetryExecutable":"poetry","cacheDirectory":"/home/furuike/.config/Code/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2026-06-01 13:19:13.439 [info] Refreshing Pyenv Environments
+2026-06-01 13:19:13.439 [info] Refreshing pyenv environments
+2026-06-01 13:19:13.439 [info] Refreshing Pipenv Environments
+2026-06-01 13:19:13.439 [info] Refreshing pipenv environments
+2026-06-01 13:19:13.439 [info] Refreshing Poetry Environments
+2026-06-01 13:19:13.439 [info] Refreshing poetry environments
+2026-06-01 13:19:13.472 [info] Discovered env: /usr/bin/python
+2026-06-01 13:19:13.503 [info] Conda not found, turning off conda features. [Error: Conda not found
+	at F (/home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/dist/extension.js:2:607042)
+	at runNextTicks (node:internal/process/task_queues:64:5)
+	at process.processImmediate (node:internal/timers:452:9)
+	at async L (/home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/dist/extension.js:2:607167)
+	at async t.registerCondaFeatures (/home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/dist/extension.js:2:627092)
+	at async t.safeRegister (/home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/dist/extension.js:2:282415)
+	at async Promise.all (index 1)
+	at async Immediate.<anonymous> (/home/furuike/.vscode/extensions/ms-python.vscode-python-envs-1.30.0-linux-x64/dist/extension.js:2:752995)]
+2026-06-01 13:19:13.507 [info] [interpreterSelection] Applying initial environment selection for 1 workspace folder(s)
+2026-06-01 13:19:13.510 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":95,"breakdown":{"GlobalVirtualEnvs":0,"Locators":69,"Path":95,"Workspaces":1},"locators":{"Conda":67,"Homebrew":0,"LinuxGlobal":67,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 13:19:13.622 [info] Discovered env: /usr/bin/python
+2026-06-01 13:19:13.633 [info] [SYS_SET] scope=/home/furuike/school/souzou, project=/home/furuike/school/souzou, normalizedKey=/home/furuike/school/souzou, env=Python 3.14.5-z988e51v9fh
+2026-06-01 13:19:13.636 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":92,"breakdown":{"GlobalVirtualEnvs":0,"Locators":73,"Path":92,"Workspaces":1},"locators":{"Conda":73,"Homebrew":0,"LinuxGlobal":70,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 13:19:13.669 [info] [interpreterSelection] souzou: Python 3.14.5 (source: autoDiscovery)
+2026-06-01 13:19:13.669 [info] [interpreterSelection] Workspace env resolved, deferring global scope to background
+2026-06-01 13:19:13.691 [info] Python API: Changed environment from undefined to Python 3.14.5 for: /home/furuike/school/souzou
+2026-06-01 13:19:13.691 [info] Internal: Changed environment from undefined to Python 3.14.5 for: /home/furuike/school/souzou
+2026-06-01 13:19:13.694 [info] [interpreterSelection] global: Python 3.14.5 (source: autoDiscovery)
+2026-06-01 13:19:13.695 [info] Python API: Changed environment from undefined to Python 3.14.5 for: global
+2026-06-01 13:19:13.695 [info] Internal: Changed environment from undefined to Python 3.14.5 for: global
+2026-06-01 13:19:13.695 [info] Refreshing pyenv environments
+2026-06-01 13:19:13.701 [info] Pipenv not found via settings, cache, or PATH
+2026-06-01 13:19:13.701 [info] Refreshing pipenv environments
+2026-06-01 13:19:13.702 [info] Pipenv not found via settings, cache, or PATH
+2026-06-01 13:19:13.702 [info] Found 0 pipenv environments
+2026-06-01 13:19:13.703 [info] Pipenv not found via settings, cache, or PATH
+2026-06-01 13:19:13.706 [info] Refreshing poetry environments
+2026-06-01 13:19:13.707 [info] Discovered env: /usr/bin/python
+2026-06-01 13:19:13.708 [info] Poetry executable not found
+2026-06-01 13:19:13.710 [info] Environment discovery complete: 1 environments found (Global: 1)
+2026-06-01 13:19:13.741 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":97,"breakdown":{"GlobalVirtualEnvs":0,"Locators":70,"Path":97,"Workspaces":2},"locators":{"Conda":69,"Homebrew":0,"LinuxGlobal":68,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 13:19:13.812 [info] Discovered env: /usr/bin/python
+2026-06-01 13:19:13.846 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":95,"breakdown":{"GlobalVirtualEnvs":0,"Locators":68,"Path":95,"Workspaces":1},"locators":{"Conda":63,"Homebrew":0,"LinuxGlobal":66,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 13:19:13.918 [info] Discovered env: /usr/bin/python
+2026-06-01 13:19:13.954 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":99,"breakdown":{"GlobalVirtualEnvs":0,"Locators":70,"Path":99,"Workspaces":2},"locators":{"Conda":66,"Homebrew":0,"LinuxGlobal":67,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 13:19:14.075 [info] Discovered env: /usr/bin/python
+2026-06-01 13:19:14.081 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":98,"breakdown":{"GlobalVirtualEnvs":0,"Locators":69,"Path":98,"Workspaces":1},"locators":{"Conda":67,"Homebrew":0,"LinuxGlobal":67,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 13:19:14.085 [info] Pipenv not found via settings, cache, or PATH
+2026-06-01 13:19:14.085 [info] Found 0 pipenv environments
+2026-06-01 13:19:14.153 [info] Discovered env: /usr/bin/python
+2026-06-01 13:19:14.181 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":94,"breakdown":{"GlobalVirtualEnvs":0,"Locators":71,"Path":93,"Workspaces":1},"locators":{"Conda":71,"Homebrew":0,"LinuxGlobal":68,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Uv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2026-06-01 13:19:14.182 [info] Poetry executable not found
+2026-06-01 13:22:09.404 [info] runInTerminal: sendText /usr/bin/python /home/furuike/school/souzou/python/polymorphism.py
+2026-06-01 13:22:10.307 [info] Resolved Python Environment /usr/bin/python
+2026-06-01 13:22:10.327 [info] Resolved Python Environment /usr/bin/python
+2026-06-01 13:22:10.346 [info] Resolved Python Environment /usr/bin/python
+2026-06-01 13:22:10.365 [info] Resolved Python Environment /usr/bin/python
+2026-06-01 13:22:10.383 [info] Resolved Python Environment /usr/bin/python

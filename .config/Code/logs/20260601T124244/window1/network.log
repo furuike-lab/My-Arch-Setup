@@ -1,0 +1,10 @@
+2026-06-01 12:51:14.820 [error] #11: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-edgedevtools/vscode-edge-devtools/latest - error GET Canceled
+2026-06-01 12:51:14.820 [error] #12: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/copilot/latest - error GET Canceled
+2026-06-01 12:51:14.820 [error] #13: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/eamodio/gitlens/latest - error GET Canceled
+2026-06-01 12:51:14.820 [error] #10: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2026-06-01 12:51:15.548 [error] #14: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2026-06-01 12:51:37.736 [error] #17: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2026-06-01 12:51:55.008 [error] #22: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2026-06-01 12:51:58.322 [error] #23: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2026-06-01 12:52:37.544 [error] #36: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2026-06-01 12:52:38.496 [error] #37: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled

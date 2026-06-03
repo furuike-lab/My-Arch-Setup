@@ -1,0 +1,9 @@
+2026/06/01-20:06:07.561 3bd9 Reusing MANIFEST /home/furuike/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
+2026/06/01-20:06:07.665 3bd9 Recovering log #7
+2026/06/01-20:06:07.666 3bd9 Reusing old log /home/furuike/.config/YouTube Music/Local Storage/leveldb/000007.log 
+2026/06/01-20:17:08.511 3bdb Level-0 table #11: started
+2026/06/01-20:17:08.528 3bdb Level-0 table #11: 11810 bytes OK
+2026/06/01-20:17:08.538 3bdb Delete type=0 #7
+2026/06/01-21:25:32.775 3bdb Level-0 table #13: started
+2026/06/01-21:25:32.796 3bdb Level-0 table #13: 11727 bytes OK
+2026/06/01-21:25:32.807 3bdb Delete type=0 #10

@@ -1,0 +1,6 @@
+2026/06/02-11:52:35.582 12fc2 Reusing MANIFEST /home/furuike/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/02-11:52:35.583 12fc2 Recovering log #3
+2026/06/02-11:52:35.628 12fc2 Reusing old log /home/furuike/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 
+2026/06/02-11:52:35.833 13032 Level-0 table #5: started
+2026/06/02-11:52:35.875 13032 Level-0 table #5: 734032 bytes OK
+2026/06/02-11:52:35.885 13032 Delete type=0 #3

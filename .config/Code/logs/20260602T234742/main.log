@@ -1,0 +1,12 @@
+2026-06-02 23:47:42.320 [info] StorageMainService: creating application shared storage
+2026-06-02 23:47:42.322 [error] Invalid path provided: /home/furuike/school/souzou, ENOENT: no such file or directory, stat '/home/furuike/school/souzou'
+2026-06-02 23:47:42.366 [info] [shared storage] Creating shared storage database at '/home/furuike/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-06-02 23:47:42.367 [info] [shared storage] Initializing fallback application storage (path: /home/furuike/.config/Code/User/globalStorage/state.vscdb)
+2026-06-02 23:47:42.396 [info] [shared storage] Fallback application storage initialized with 106 items
+2026-06-02 23:47:42.398 [info] update#setState idle
+2026-06-02 23:47:43.187 [error] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/8761a5560cfd65fdd19ce7e2bd18dab5c0a4d84e?u=none - error undefined net::ERR_INTERNET_DISCONNECTED
+2026-06-02 23:47:43.187 [error] update#isLatestVersion(): failed to check for updates
+2026-06-02 23:47:43.187 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:132354)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2026-06-02 23:47:55.606 [info] Extension host with pid 8987 exited with code: 0, signal: unknown.
