@@ -46,12 +46,12 @@ chmod +x restore.sh
 
 ## 注意
 
-以下は GitHub に保存していない。
+復元後に以下の作業が必要。
 
-* Google Chrome のログイン情報
-* Discord のログイン情報
-* rclone の認証情報
-* Google Drive のデータ本体
+* rclone の再設定
+* Google Drive のマウント確認
+* SSH鍵の再作成または復元
+
 
 必要に応じて再設定すること。
 
